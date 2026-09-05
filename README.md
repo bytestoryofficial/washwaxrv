@@ -5,6 +5,7 @@
 # Wash Wax RV
 
 **Simple react landing page for a motor home (RV) wash & detailing service.**
+
 Hero, services, gallery, reviews, and a contact form — all backed by a real API.
 
 Built as a freelance commission in 2022.
@@ -49,4 +50,5 @@ Built with `npm run build` and deployed to a Contabo VPS over SSH — the conten
 ## License
 
 © 2022–2025 Wash Wax RV. All rights reserved.
+
 This was a freelance commission — the code is shared here as a portfolio reference. Please do not reuse, redistribute, or deploy this project without permission from the site owner.
