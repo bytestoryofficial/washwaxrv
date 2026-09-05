@@ -4,7 +4,7 @@
 
 # Wash Wax RV
 
-**Simple landing page for a motor home (RV) wash & detailing service · React · Motion · redux@toolkit**
+**Simple landing page for a motor home (RV) wash & detailing service · React · Motion · Redux**
 
 Hero, services, gallery, reviews, and a contact form — all backed by a real API.
 
